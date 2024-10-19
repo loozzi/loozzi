@@ -16,10 +16,6 @@ Welcome to my profile! I'm a student at [UET-VNU](https://uet.vnu.edu.vn/en), ma
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loozzi&layout=compact&&langs_count=8"/>
 </div>
 
-## Coding time 🕐
-
-<img src="https://wakatime.com/share/@018d075a-662c-4eaf-a75f-690320a96d68/c8f35c69-1514-4c4f-a6f0-56540f374516.svg" />
-
 ## Some Tools I Use 🧰
 
 <p align="left">
@@ -36,8 +32,9 @@ Welcome to my profile! I'm a student at [UET-VNU](https://uet.vnu.edu.vn/en), ma
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 
-<img width="50%" float="right" src="https://wakatime.com/share/@018d075a-662c-4eaf-a75f-690320a96d68/6f51dbec-009e-4679-b2b4-a59d8323a235.svg"/>
-
-## I'm listening... 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31swwemsk3eok4htccvhqf6vgrq4&cover_image=true&theme=default&show_offline=true&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31swwemsk3eok4htccvhqf6vgrq4&redirect=true)
+## Contributions in the last year 🚉
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loozzi/loozzi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loozzi/loozzi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
